@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ho-Sway]]></title>
         <description><![CDATA[Ho-Sway]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ho-sway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 20:21:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jan 2016 20:51:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ho-sway/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68df0eb2-c167-4a55-8b12-c04cf9e78693.jpg">]]></description>
+            <link>https://thegrid.ai/ho-sway/bd9ee550-7010-43f7-9a00-bb2e336b109e/index.html</link>
+            <guid isPermaLink="false">bd9ee550-7010-43f7-9a00-bb2e336b109e</guid>
+            <pubDate>Sat, 16 Jan 2016 20:51:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfde69cb-6e1e-4d37-b2e9-b4c6e4dc4500.jpg">]]></description>
-            <link>undefineddd76f73d-d5cd-4014-98f4-4c4f91fddb86/index.html</link>
+            <link>https://thegrid.ai/ho-sway/dd76f73d-d5cd-4014-98f4-4c4f91fddb86/index.html</link>
             <guid isPermaLink="false">dd76f73d-d5cd-4014-98f4-4c4f91fddb86</guid>
             <pubDate>Sat, 16 Jan 2016 20:21:08 GMT</pubDate>
         </item>

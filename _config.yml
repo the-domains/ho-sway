@@ -2,6 +2,7 @@ name: Ho-Sway
 favicon: null
 layout_spectrum: 0.61078
 typography_spectrum: 0.25768
+title: Tester Site - Ho-Sway
 cta:
   domain: null
   bucket: null
